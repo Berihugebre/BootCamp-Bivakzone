@@ -8,7 +8,7 @@ import {
   } from "react-router-dom";
 import { render } from '@testing-library/react';
 import Map from '../Map';
-import BivakzoneModal from '../components/BivakzoneModal'
+import BivakzoneModal from '../Components/BivakzoneModal'
 import Bivakzones from '../bivakzones.json'
 import MainContainer from '../MainContainer'
 

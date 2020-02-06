@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 import Filter from './Header/Filter';
 import { Handler } from 'leaflet';
 import {Modal} from 'react-bootstrap';
-import BivakzoneModal from './components/BivakzoneModal2';
+import BivakzoneModal from './Components/BivakzoneModal2';
 import './App.css';
 import {ShowModalContext} from './utils/Context'
 import {Icon} from 'antd'
